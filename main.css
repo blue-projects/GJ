@@ -1,0 +1,87 @@
+* {
+  font-family: arial;
+
+}
+
+h1 { 
+  font-size: xx-large; }
+
+  h2 {
+      font-size: x-large;
+  }
+  h3 
+   { font-size: larger; }
+   p {
+      font-size: large;
+   }
+.bgO {
+  height: 100vh;
+  width: :100vw;
+      background-color:  #FFC300 ;
+      color: #C70039;
+
+}
+
+.bgR {
+    height: 100vh;
+  width: :100vw;
+   background-color: #C70039;
+   color:  #FFC300 ;
+}
+#img0 {
+  width : 20vw;
+  margin-left: 40vw;
+  margin-right: 40vw;
+}
+#P0 {
+  height: 100vh ;
+
+
+  }
+.icon0  { margin : 0vw 20vw 5vw 65vw; }
+
+
+
+.text0{
+  margin : 5vh 30vh 5vh 30vh;
+text-align: center;}
+
+.icon{
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  margin: 3vh 10vh 3vh 10vh;
+}
+.image{
+  height:30vh;
+  margin-top: 12vh;
+  margin-right:5vh;
+
+}
+.para {
+
+}
+article {
+  display: flex;
+  margin:auto;
+    font-family: : Trebuchet MS;
+
+}
+
+#P1 {
+  height: 100vh ;
+    margin : 60vh 30vh 30vh 30vh;
+
+}
+
+#P2 {
+  height: 100vh ;
+    margin : 30vh;
+  
+}
+
+#P3 {
+  height: 100vh ;
+    margin : 30vh;
+    
+}
